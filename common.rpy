@@ -504,91 +504,91 @@ translate italian strings:
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new ""
+    new "Vi fidate del dispositivo su cui è stato creato il salvataggio? Scegliere sì solo se si è l'unico utente del dispositivo."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
-    new ""
+    new "Fallito il salvataggio della schermata come %s."
 
     # renpy/common/00keymap.rpy:346
-    old "Saved screenshot as %ss."
-    new ""
+    old "Saved screenshot as %s."
+    new "Salvata la schermata come %s"
 
     # renpy/common/00library.rpy:251
     old "Skip Mode"
-    new ""
+    new "Salta"
 
     # renpy/common/00library.rpy:338
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "Questo programma contiene software libero sotto diverse licenze, tra cui la MIT License e la GNU Lesser General Public License. Un elenco completo del software, con i collegamenti al codice sorgente completo, si trova {a=https://www.renpy.org/l/license}qui{/a}."
 
     # renpy/common/00preferences.rpy:290
     old "display"
-    new ""
+    new "schermo"
 
     # renpy/common/00preferences.rpy:310
     old "transitions"
-    new ""
+    new "transizioni"
 
     # renpy/common/00preferences.rpy:319
     old "skip transitions"
-    new ""
+    new "salta transizioni"
 
     # renpy/common/00preferences.rpy:321
     old "video sprites"
-    new ""
+    new "video sprite"
 
     # renpy/common/00preferences.rpy:330
     old "show empty window"
-    new ""
+    new "mostra la schermata vuota"
 
     # renpy/common/00preferences.rpy:339
     old "text speed"
-    new ""
+    new "velocità del testo"
 
     # renpy/common/00preferences.rpy:347
     old "joystick"
-    new ""
+    new "joystick"
 
     # renpy/common/00preferences.rpy:347
     old "joystick..."
-    new ""
+    new "joystick..."
 
     # renpy/common/00preferences.rpy:354
     old "skip"
-    new ""
+    new "salta"
 
     # renpy/common/00preferences.rpy:357
     old "skip unseen [text]"
-    new ""
+    new "salta il non-visto [text]"
 
     # renpy/common/00preferences.rpy:362
     old "skip unseen text"
-    new ""
+    new "salta allo schermo non visto"
 
     # renpy/common/00preferences.rpy:364
     old "begin skipping"
-    new ""
+    new "comincia a saltare"
 
     # renpy/common/00preferences.rpy:368
     old "after choices"
-    new ""
+    new "dopo le scelte"
 
     # renpy/common/00preferences.rpy:375
     old "skip after choices"
-    new ""
+    new "salta dopo le scelte"
 
     # renpy/common/00preferences.rpy:377
     old "auto-forward time"
-    new ""
+    new "tempo di avanzamento-automatico"
 
     # renpy/common/00preferences.rpy:391
     old "auto-forward"
-    new ""
+    new "avanzamento-automatico"
 
     # renpy/common/00preferences.rpy:398
     old "Auto forward"
-    new ""
+    new "Auto avanzamento"
 
     # renpy/common/00preferences.rpy:401
     old "auto-forward after click"
