@@ -432,75 +432,75 @@ translate italian strings:
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
-    new ""
+    new "Transizione"
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new ""
+    new "Click per impostare."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new ""
+    new "Personalizza director.transition per aggiungere altre transizioni."
 
     # renpy/common/00director.rpy:1835
     old "Channel:"
-    new ""
+    new "Canale:"
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new ""
+    new "Personalizza director.audio_channels per aggiungere altri canali."
 
     # renpy/common/00director.rpy:1858
     old "Audio Filename:"
-    new ""
+    new "Nome file audio:"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new ""
+    new "Sei sicuro?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Sei sicuro di volere cancellare il salvataggio?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Sei sicuro di volere sovrascrivere il salvataggio?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Il caricamento farà perdere i progressi non salvati.\nSei sicuro di volere questo?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new ""
+    new "Sei sicuro di voler uscire?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Sei sicuro di voler tornare al menu principale?\nQuesto farà perdere i progressi non salvati."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new ""
+    new "Sei sicuro di voler continuare da dove vi siete fermati?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Sei sicuro di voler terminare il replay?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Sei sicuro di voler cominciare a saltare i passaggi?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Sei sicuro di voler saltare alla prossima scelta?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Sei sicuro di voler saltare il dialogo non letto alla prossima scelta?"
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new ""
+    new "Questo salvataggio è stato creato su un dispositivo differente. I file di salvataggio creati male possono danneggiare il computer. Ti fidi del creatore di questo salvataggio e di tutti coloro che potrebbero aver modificato il file?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
@@ -511,7 +511,7 @@ translate italian strings:
     new ""
 
     # renpy/common/00keymap.rpy:346
-    old "Saved screenshot as %s."
+    old "Saved screenshot as %ss."
     new ""
 
     # renpy/common/00library.rpy:251
