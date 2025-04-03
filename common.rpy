@@ -28,11 +28,11 @@ translate italian strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "scroll orizzontale"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "scroll orizzontale"
+    new "scroll verticale"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
@@ -592,19 +592,19 @@ translate italian strings:
 
     # renpy/common/00preferences.rpy:401
     old "auto-forward after click"
-    new ""
+    new "inoltro automatico dopo il clic"
 
     # renpy/common/00preferences.rpy:410
     old "automatic move"
-    new ""
+    new "spostamento automatico"
 
     # renpy/common/00preferences.rpy:419
     old "wait for voice"
-    new ""
+    new "attendere la voce"
 
     # renpy/common/00preferences.rpy:428
     old "voice sustain"
-    new ""
+    new "sostegno della voce"
 
     # renpy/common/00preferences.rpy:437
     old "self voicing"
@@ -672,15 +672,15 @@ translate italian strings:
 
     # renpy/common/00preferences.rpy:506
     old "font size"
-    new ""
+    new "dimensione del carattere"
 
     # renpy/common/00preferences.rpy:514
     old "font line spacing"
-    new ""
+    new "interlinea del carattere"
 
     # renpy/common/00preferences.rpy:522
     old "system cursor"
-    new ""
+    new "cursore di sistema"
 
     # renpy/common/00preferences.rpy:531
     old "renderer menu"
@@ -688,19 +688,19 @@ translate italian strings:
 
     # renpy/common/00preferences.rpy:534
     old "accessibility menu"
-    new ""
+    new "menu accessibilità"
 
     # renpy/common/00preferences.rpy:537
     old "high contrast text"
-    new ""
+    new "testo ad alto contrasto"
 
     # renpy/common/00preferences.rpy:546
     old "audio when minimized"
-    new ""
+    new "audio quando minimizzato"
 
     # renpy/common/00preferences.rpy:555
     old "audio when unfocused"
-    new ""
+    new "audio quando perde il focus"
 
     # renpy/common/00preferences.rpy:564
     old "web cache preload"
@@ -708,11 +708,11 @@ translate italian strings:
 
     # renpy/common/00preferences.rpy:579
     old "voice after game menu"
-    new ""
+    new "voce dopo il game menu"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new ""
+    new "ripristina le posizioni delle finestre"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
@@ -720,43 +720,43 @@ translate italian strings:
 
     # renpy/common/00preferences.rpy:610
     old "main volume"
-    new ""
+    new "volume principale"
 
     # renpy/common/00preferences.rpy:611
     old "music volume"
-    new ""
+    new "volume della musica"
 
     # renpy/common/00preferences.rpy:612
     old "sound volume"
-    new ""
+    new "volume del suono"
 
     # renpy/common/00preferences.rpy:613
     old "voice volume"
-    new ""
+    new "volume della voce"
 
     # renpy/common/00preferences.rpy:614
     old "mute main"
-    new ""
+    new "muta il canale principale"
 
     # renpy/common/00preferences.rpy:615
     old "mute music"
-    new ""
+    new "muta la musica"
 
     # renpy/common/00preferences.rpy:616
     old "mute sound"
-    new ""
+    new "muta il sonoro"
 
     # renpy/common/00preferences.rpy:617
     old "mute voice"
-    new ""
+    new "muta la voce"
 
     # renpy/common/00preferences.rpy:618
     old "mute all"
-    new ""
+    new "muta tutto"
 
     # renpy/common/00preferences.rpy:701
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "Voicing degli appunti abilitato. Premere 'shift+C' per disabilitarla."
 
     # renpy/common/00preferences.rpy:703
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
